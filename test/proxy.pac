@@ -2330,7 +2330,6 @@ var domains = {
   "dabr.mobi": 1, 
   "catch22.net": 1, 
   "digitalnomadsproject.org": 1, 
-  "github.com": 1, 
   "blogspot.de": 1, 
   "pcdvd.com.tw": 1, 
   "getyouram.com": 1, 
