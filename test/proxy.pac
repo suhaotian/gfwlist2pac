@@ -4,6 +4,7 @@
 var domains = {
   "deviantart.com":1,
   "phncdn.com":1,
+  "amazonaws.com":1,
   "cargocollective.com":1,
   "d.pr":1,
   "gimpshop.com": 1,
