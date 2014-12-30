@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "jsbin.com":1,
   "deviantart.com":1,
   "phncdn.com":1,
   "amazonaws.com":1,
