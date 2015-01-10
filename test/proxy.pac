@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "chrome.com":1,
   "seleniumhq.org":1,
   "jsbin.com":1,
   "deviantart.com":1,
