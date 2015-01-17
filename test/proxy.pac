@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+"chromium.org":1,
   "angularjs.org":1,
   "chrome.com":1,
   "seleniumhq.org":1,
