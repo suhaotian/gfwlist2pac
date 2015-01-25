@@ -2,7 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
-  "api.plnkr.co":1.
+  "api.plnkr.co":1,
   "plnkr.co":1,
   "shadowsocks.net":1,
   "ajax.googleapis.com":1,
